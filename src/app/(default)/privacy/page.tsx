@@ -2,7 +2,7 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
     title: "Privacy Policy",
-    description: "Akari's privacy policy",
+    description: "Mangoliya's privacy policy",
 };
 
 export default function PrivacyPage() {
@@ -16,15 +16,15 @@ export default function PrivacyPage() {
                     </p>
 
                     <p>
-                        At Akari, we take your privacy seriously. This Privacy
+                        At Mangoliya, we take your privacy seriously. This Privacy
                         Policy explains what information we collect and how we
-                        use it when you visit our website or use the Akari
+                        use it when you visit our website or use the Mangoliya
                         application.
                     </p>
 
                     <h2>1. Local Usage</h2>
                     <p>
-                        If you are running Akari locally on your device, no data
+                        If you are running Mangoliya locally on your device, no data
                         is sent to any of our servers. All interactions,
                         including the use of cookies and account data, remain
                         entirely on your local device. Vercel Web Analytics and
@@ -34,7 +34,7 @@ export default function PrivacyPage() {
 
                     <h2>2. Information We Collect</h2>
                     <p>
-                        When you use Akari, the following information is
+                        When you use Mangoliya, the following information is
                         collected:
                     </p>
                     <ul>
