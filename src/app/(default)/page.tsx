@@ -9,30 +9,30 @@ interface HomeProps {
 }
 
 export const metadata: Metadata = {
-    title: "Akari Manga",
-    description: "Read manga for free on Akari.",
+    title: "Mangoliya Manga",
+    description: "Read manga for free on Mangoliya.",
     openGraph: {
-        title: "Akari Manga",
-        description: "Read manga for free on Akari.",
+        title: "Mangoliya Manga",
+        description: "Read manga for free on Mangoliya.",
         images: [
             {
                 url: "https://raw.githubusercontent.com/sn0w12/Akari/refs/heads/master/public/img/icon.png",
                 width: 512,
                 height: 512,
-                alt: "Akari Manga",
+                alt: "Mangoliya Manga",
             },
         ],
     },
     twitter: {
         card: "summary_large_image",
-        site: "@Akari",
-        title: "Akari Manga",
-        description: "Read manga for free on Akari.",
+        site: "@Mangoliya",
+        title: "Mangoliya Manga",
+        description: "Read manga for free on Mangoliya.",
         images: {
             url: "https://raw.githubusercontent.com/sn0w12/Akari/refs/heads/master/public/img/icon.png",
             width: 512,
             height: 512,
-            alt: "Akari Manga",
+            alt: "Mangoliya Manga",
         },
     },
 };
