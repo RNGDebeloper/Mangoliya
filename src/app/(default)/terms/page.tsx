@@ -2,7 +2,7 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
     title: "Terms of Service",
-    description: "Akari Terms of Service",
+    description: "Mangoliya Terms of Service",
 };
 
 export default function TermsPage() {
@@ -12,11 +12,11 @@ export default function TermsPage() {
                 <h1 className="text-3xl font-bold mb-6">Terms of Service</h1>
                 <div className="prose dark:prose-invert">
                     <p>
-                        <strong>Last Updated: 2024-10-07</strong>
+                        <strong>Last Updated: 2025-05-01</strong>
                     </p>
 
                     <p>
-                        Welcome to Akari! By accessing or using the Akari
+                        Welcome to Mangoliya! By accessing or using the Mangoliya
                         Website, you agree to be bound by these Terms of Service
                         (the &quot;Terms&quot;). If you do not agree to these
                         Terms, please do not use the Website.
@@ -34,7 +34,7 @@ export default function TermsPage() {
 
                     <h2>2. Description of the Website</h2>
                     <p>
-                        Akari is a Next.js Website designed to enhance the manga
+                        Mangoliya is a Next.js Website designed to enhance the manga
                         reading experience for Manganato users. It utilizes
                         Manganato as a backend, allowing users to manage and
                         retain their bookmarks from the site directly within the
@@ -63,7 +63,7 @@ export default function TermsPage() {
                     <p>
                         The developers of this Website do not have any
                         affiliation with the content available in the Website.
-                        Akari collects content from sources that are freely
+                        Mangoliya collects content from sources that are freely
                         accessible through any web browser. The Website does not
                         host any content directly.
                     </p>
@@ -71,7 +71,7 @@ export default function TermsPage() {
                     <h2>5. Limitation of Liability</h2>
                     <p>
                         To the fullest extent permitted by law, in no event
-                        shall Akari, its developers, or its affiliates be liable
+                        shall Mangoliya, its developers, or its affiliates be liable
                         for any indirect, incidental, special, consequential, or
                         punitive damages, including without limitation, loss of
                         profits, data, use, goodwill, or other intangible
@@ -87,7 +87,7 @@ export default function TermsPage() {
 
                     <h2>6. Indemnification</h2>
                     <p>
-                        You agree to defend, indemnify, and hold harmless Akari,
+                        You agree to defend, indemnify, and hold harmless Mangoliya,
                         its developers, and its affiliates from and against any
                         claims, liabilities, damages, losses, costs, and
                         expenses, including reasonable attorneys fees, arising
