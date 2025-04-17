@@ -12,7 +12,7 @@ export const metadata: Metadata = {
                 url: "https://raw.githubusercontent.com/sn0w12/Akari/refs/heads/master/public/img/icon.png",
                 width: 512,
                 height: 512,
-                alt: "Akari Manga",
+                alt: "Mangoliya Manga",
             },
         ],
     },
@@ -24,7 +24,7 @@ export const metadata: Metadata = {
             url: "https://raw.githubusercontent.com/sn0w12/Akari/refs/heads/master/public/img/icon.png",
             width: 512,
             height: 512,
-            alt: "Akari Manga",
+            alt: "Mangoliya Manga",
         },
     },
 };
