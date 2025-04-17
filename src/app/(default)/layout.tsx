@@ -20,7 +20,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-    title: "灯 - Akari",
+    title: "灯 - Mangoliya",
 };
 
 export default function RootLayout({
