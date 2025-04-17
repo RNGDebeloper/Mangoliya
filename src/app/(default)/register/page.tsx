@@ -3,7 +3,7 @@ import Register from "@/components/Register";
 
 export const metadata: Metadata = {
     title: "Register",
-    description: "Register an account on Akari",
+    description: "Register an account on Mangoliya",
 };
 
 export default function RegisterPage() {
