@@ -305,7 +305,7 @@ export function SideBar() {
                     <div id="sidebar" className="flex flex-col h-full">
                         <SheetTitle className="text-2xl font-bold flex items-center gap-2 px-6 py-4 border-b">
                             <LampDesk className="h-6 w-6" />
-                            <span>Akari</span>
+                            <span>Mongoliya</span>
                         </SheetTitle>
 
                         <ScrollArea className="flex-1 px-6">
