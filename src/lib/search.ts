@@ -90,7 +90,7 @@ export async function advancedSearch(
     excludedGenres: string[] = [],
     page: number = 1,
 ) {
-    const baseUrl = `/api/search?query=${query.trim().replaceAll(" ", "_")}`;
+    const baseUrl = `/api/search/stroy/${query.trim().replaceAll(" ", "_")}`;
     const includedParams =
         includedGenres.length > 0
             ? `&included=${includedGenres.join(",")}`
